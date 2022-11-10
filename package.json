@@ -1,0 +1,25 @@
+{
+  "name": "@amber/amber_npm_learn",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=development node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amber-lb/amber_npm_learn.git"
+  },
+  "author": "amber-lb <359564897@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amber-lb/amber_npm_learn/issues"
+  },
+  "homepage": "https://github.com/Amber-lb/amber_npm_learn#readme",
+  "description": "",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
